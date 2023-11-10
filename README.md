@@ -51,3 +51,18 @@
 ![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/256ff687-2440-4088-b49f-0cc853d43fce)
 
 # Unidad 8:
+
+## Views de Android y Compose en Views: Compilar una App para Android con Views
+
+## Views de Android y Compose en Views: Agregar Compose a una app heredada
+
+## Cuestionario:
+
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/c4e509d5-bb44-4af5-b5d9-15562f514c53)
+
+## Views en Compose: Interoperabilidad con objetos View en Compose
+
+
+## Cuestionario: 
+
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/e4be6317-cb53-4ae2-93f5-a86625a17b0d)
