@@ -34,6 +34,13 @@
 
 # Unidad 7:
 
+## Como programar tareas con WorkManager: Trabajo en segundo plano con WorkManager
+
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/d6d6ba6a-6370-4cb3-b853-78447af47bcd)
+
+## Como programar tareas con WorkManager: Pruebas y WorkManager Avanzados
+
+## Como programar tareas con WorkManager: Practica, app Water Me
 
 
 # Unidad 8:
