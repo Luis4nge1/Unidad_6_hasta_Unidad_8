@@ -18,6 +18,7 @@
 
 ## Como usar Room para lograr la persistencia de datos: Practica, app de Bus Schedule
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/ba50af5e-3a18-4305-a567-53a1bd3e72a7)
 
 ## Cuestionario:
 
