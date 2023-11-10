@@ -54,6 +54,8 @@
 
 ## Views de Android y Compose en Views: Compilar una App para Android con Views
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/1c39c9d4-0d2b-4905-a37c-cfc618527d21)
+
 ## Views de Android y Compose en Views: Agregar Compose a una app heredada
 
 ## Cuestionario:
