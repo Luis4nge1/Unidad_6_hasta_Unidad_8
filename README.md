@@ -40,6 +40,8 @@
 
 ## Como programar tareas con WorkManager: Pruebas y WorkManager Avanzados
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/8c374a41-7a25-4dd5-a88c-4524812849b6)
+
 ## Como programar tareas con WorkManager: Practica, app Water Me
 
 
