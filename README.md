@@ -10,6 +10,7 @@
 
 ## Como usar Room para lograr la persistencia de datos: Lograr la persistencia de datos con Room
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/ca31f98a-4418-4e5d-b7c5-36bc20f7185f)
 
 ## Como usar Room para lograr la persistencia de datos: Leer y actualizar datos con Room
 
