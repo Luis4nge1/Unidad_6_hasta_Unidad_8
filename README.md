@@ -14,6 +14,8 @@
 
 ## Como usar Room para lograr la persistencia de datos: Leer y actualizar datos con Room
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/bc2441b1-b69e-4e39-88f6-2cfdc6747077)
+
 ## Como usar Room para lograr la persistencia de datos: Practica, app de Bus Schedule
 
 
