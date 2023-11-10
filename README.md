@@ -22,6 +22,8 @@
 
 ## Cuestionario:
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/9d1bba5e-a328-4473-b346-5843646cfbf0)
+
 ## Como almacenar datos y acceder a ellos mediante claves con DataStore: Guardar tus preferencias de forma local con DataStore
 
 ## Como almacenar datos y acceder a ellos mediante claves con DataStore: Practica, app de vuelo
