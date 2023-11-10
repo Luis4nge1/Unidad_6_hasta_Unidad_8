@@ -58,6 +58,8 @@
 
 ## Views de Android y Compose en Views: Agregar Compose a una app heredada
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/672fd263-b957-4129-b823-cb8f613ed1af)
+
 ## Cuestionario:
 
 ![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/c4e509d5-bb44-4af5-b5d9-15562f514c53)
