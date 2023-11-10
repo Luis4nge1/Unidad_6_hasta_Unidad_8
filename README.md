@@ -44,5 +44,10 @@
 
 ## Como programar tareas con WorkManager: Practica, app Water Me
 
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/c1d7ac0c-3c49-47fc-824d-14a4f4c355d3)
+
+## Cuestionario: 
+
+![image](https://github.com/Luis4nge1/Unidad_6_hasta_Unidad_8/assets/132635578/256ff687-2440-4088-b49f-0cc853d43fce)
 
 # Unidad 8:
